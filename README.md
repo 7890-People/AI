@@ -1,9 +1,20 @@
 # AI
 
 
-## 1. Environment
+## 1. Environment/Usage
 - Python 3.8.18
 - Pytorch 1.12.1
+<pre><code>	{code}    </code></pre>
+- conda install pytorch torchvision torchaudio cpuonly -c pytorch
+- conda install -c conda-forge opencv
+- pip install albumentations
+- pip install timm
+- pip install Pillow
+- pip install albumentations
+- pip install torch torchvision
+- pip install pydantic
+- pip install fastapi
+- pip install opencv-python-headless
 
 ## 2. Dataset
 
