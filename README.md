@@ -17,7 +17,7 @@ pip install fastapi
 pip install opencv-python-headless    </code></pre>
 
 Usage
-<pre><code>	python classification_DDalki-train.py
+<pre><code>python classification_DDalki-train.py
 python classification_OE-train.py
 ...
 </code></pre>
