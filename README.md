@@ -4,6 +4,7 @@
 ## 1. Environment/Usage
 - Python 3.8.18
 - Pytorch 1.12.1
+Environment
 <pre><code>conda install pytorch torchvision torchaudio cpuonly -c pytorch
 conda install -c conda-forge opencv
 pip install albumentations
@@ -15,6 +16,11 @@ pip install pydantic
 pip install fastapi
 pip install opencv-python-headless    </code></pre>
 
+Usage
+<pre><code>	python classification_DDalki-train.py
+  python classification_OE-train.py
+...
+</code></pre>
 
 ## 2. Dataset
 
